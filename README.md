@@ -1,6 +1,14 @@
-## Hi there 👋
+👋 Hi, I’m kwxn.
 
-<!--
+i have little to no knowledge about programming languages, coding, tech, and stuff. i only know the basics, and honestly, I’m still not sure how I ended up in a tech-related course. That said, I’m willing to learn (as long as laziness doesn’t strike 🥲 sarili laban sa sarili always).
+
+currently, my team and I are working on an Alumni Tracking System and other minor softwr projects, and we’re on the verge of losing our sanity. but they say it’s normal daw in programming.🫩 thnkfully, we’re guided by our instructor/s, which helps keep us on track.
+
+still figuring things out, experimenting, and trying to survive one commit at a time.😵‍💫
+
+
+<!--## Hi there 👋
+
 **kwenbsnr/kwenbsnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
