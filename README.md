@@ -1,4 +1,16 @@
-👋 
+
+
+
+
+
+
+ 🔭 LF: capstone groupmate
+
+⚡ qualifications:
+
+mutabang
+
+dli lazy
 
 
 <!--## Hi there 👋
